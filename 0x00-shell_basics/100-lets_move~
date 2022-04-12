@@ -1,0 +1,2 @@
+#!/bin/basht
+mv [[:upper:]]* /tmp/u
